@@ -1,0 +1,28 @@
+td, th {
+    border: 3px solid #dddddd;
+    text-align: center;
+   
+  }
+
+  table {
+    
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 90%;
+  }
+  body{
+
+    background-color: rgb(165, 190, 176);
+
+
+  }
+  div{
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-right: 300px;
+   margin-left: 80px;
+    
+  }
+  h1{
+      color: brown;
+  }
